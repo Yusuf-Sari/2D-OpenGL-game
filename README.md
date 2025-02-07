@@ -53,28 +53,28 @@ How It Works:
 
 How to Run:
 
- - Compile and run this on windows.
+   - Compile and run this on windows.
 
 1. File List:
- - Angel.h
- - CheckError.h
- - vec.h
- - chickenGame.cpp
- - initshader.cpp
- - fshader21.glsl
- - vshader21.glsl
+   - Angel.h
+   - CheckError.h
+   - vec.h
+   - chickenGame.cpp
+   - initshader.cpp
+   - fshader21.glsl
+   - vshader21.glsl
 
 2. Requirements:
- - Install Visual Studio with C++ development tools.
- - Ensure GLUT, GLEW, and OpenGL are installed.
- - The shader files (vshader21.glsl and fshader21.glsl) must be in the same directory as the exe file.
+   - Install Visual Studio with C++ development tools.
+   - Ensure GLUT, GLEW, and OpenGL are installed.
+   - The shader files (vshader21.glsl and fshader21.glsl) must be in the same directory as the exe file.
 
 3. Building the Project:
- - Open the Visual Studio solution file.
- - Ensure all necessary files are included in the project.
- - Build the project.
+   - Open the Visual Studio solution file.
+   - Ensure all necessary files are included in the project.
+   - Build the project.
 
 4. Running the Game:
- - Press F5 to run the project in Debug mode.
- - Press Ctrl + F5 to run without debugging.
+   - Press F5 to run the project in Debug mode.
+   - Press Ctrl + F5 to run without debugging.
 
