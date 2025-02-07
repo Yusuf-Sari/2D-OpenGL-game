@@ -1,5 +1,4 @@
 # 2D-OpenGL-game
-2D OpenGL Game
 
 Overview:
 
@@ -54,36 +53,28 @@ How It Works:
 
 How to Run:
 
-Compile and run this on windows.
+ - Compile and run this on windows.
 
-File List:
+1. File List:
+ - Angel.h
+ - CheckError.h
+ - vec.h
+ - chickenGame.cpp
+ - initshader.cpp
+ - fshader21.glsl
+ - vshader21.glsl
 
-Angel.h
-CheckError.h
-vec.h
-chickenGame.cpp
-initshader.cpp
-fshader21.glsl
-vshader21.glsl
+2. Requirements:
+ - Install Visual Studio with C++ development tools.
+ - Ensure GLUT, GLEW, and OpenGL are installed.
+ - The shader files (vshader21.glsl and fshader21.glsl) must be in the same directory as the exe file.
 
+3. Building the Project:
+ - Open the Visual Studio solution file.
+ - Ensure all necessary files are included in the project.
+ - Build the project.
 
-Requirements:
-
-
-Install Visual Studio with C++ development tools.
-Ensure GLUT, GLEW, and OpenGL are installed.
-The shader files (vshader21.glsl and fshader21.glsl) must be in the same directory as the exe file.
-
-
-Building the Project:
-
-Open the Visual Studio solution file.
-Ensure all necessary files are included in the project.
-Build the project.
-
-
-Running the Game:
-
-Press F5 to run the project in Debug mode.
-Press Ctrl + F5 to run without debugging.
+4. Running the Game:
+ - Press F5 to run the project in Debug mode.
+ - Press Ctrl + F5 to run without debugging.
 
